@@ -26,7 +26,7 @@ scrollbar-width: none;
 }
 
 body {
-background-image: url("//a0ce76b8-a-62cb3a1a-s-sites.googlegroups.com/site/databloggerjp05/home/folder-img/BCGREPEAT_03_WHITE.png");
+background-image: url("https://sdn-jatipadang-05-pagi-webapp.github.io/img/monas.jpg");
 padding: 0;
 margin: 0;
 margin: 0px auto;
@@ -34,7 +34,9 @@ margin: 0px auto;
 -moz-background-size: 150px;
 -o-background-size: 150px;
 background-attachment: fixed;
-background-repeat: repeat;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
 }
 
 #loginDisplay {

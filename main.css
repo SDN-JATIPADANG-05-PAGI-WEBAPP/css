@@ -392,8 +392,8 @@ padding-bottom: 80px;
 }
 
 .mkb-input{
-width: -moz-calc(90% - 20px)!important;
-width: -webkit-calc(90% - 20px)!important;
+width: -moz-calc(100% - 20px)!important;
+width: -webkit-calc(100% - 20px)!important;
 width: calc(90% - 20px)!important;
 font-size: 30vb;
 -webkit-box-sizing: border-box;

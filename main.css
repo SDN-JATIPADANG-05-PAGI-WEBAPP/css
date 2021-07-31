@@ -377,7 +377,7 @@ margin:5px;
 }
 .textpin { 
 background-color: rgb(255, 255, 255, 0.9);
-height: auto;
+height: 90vh;
 width: 100%;
 position: fixed;
 overflow: scroll;

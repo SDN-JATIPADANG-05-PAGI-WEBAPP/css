@@ -47,7 +47,7 @@ vertical-align: middle;
 align-items: center;
 justify-content: center;
 position: absolute;
-top: 50%;
+bottom: -5%;
 left: 50%;
 -ms-transform: translate(-50%, -50%);
 transform: translate(-50%, -50%);
@@ -256,6 +256,7 @@ background-image: url("//a0ce76b8-a-62cb3a1a-s-sites.googlegroups.com/site/datab
 -o-background-size: 130px;
 background-attachment: fixed;
 background-repeat: repeat;
+color: white;    
 }
 
 .sidenav a {
@@ -392,9 +393,9 @@ padding-bottom: 80px;
 }
 
 .mkb-input{
-width: -moz-calc(100% - 20px)!important;
-width: -webkit-calc(100% - 20px)!important;
-width: calc(90% - 20px)!important;
+width: -moz-calc(100% - 5px)!important;
+width: -webkit-calc(100% - 5px)!important;
+width: calc(90% - 5px)!important;
 font-size: 30vb;
 -webkit-box-sizing: border-box;
 -moz-box-sizing: border-box;

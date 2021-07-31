@@ -42,14 +42,14 @@ background-position: center;
 
 #loginDisplay {
 width: 80%;
-vertical-align: middle;
+vertical-align: text-bottom;
 align-items: center;
 justify-content: center;
 position: absolute;
-bottom: -10px!important;
+bottom: 0px!important;
 left: 50%;
--ms-transform: translate(-50%, -50%);
-transform: translate(-50%, -50%);
+-ms-transform: translate(-50%, 100vh);
+transform: translate(-50%, 100vh);
 }
 .rainbow {
   text-align: center;

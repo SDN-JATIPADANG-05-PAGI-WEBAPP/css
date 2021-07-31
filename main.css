@@ -17,6 +17,7 @@ overflow-y: hidden !important !important;
 -moz-appearance: none !important !important;
 -ms-overflow-style: none;
 scrollbar-width: none; 
+overflow: scroll;    
 }
 #element::-webkit-scrollbar {
     display: none;
@@ -385,7 +386,7 @@ height: 100vh;
 width: 100%;
 position: fixed;
 overflow: scroll;
-
+margin-bottom: 20px;    
 }
 
 .mkb-input{

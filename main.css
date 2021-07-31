@@ -46,10 +46,10 @@ vertical-align: text-bottom;
 align-items: center;
 justify-content: center;
 position: absolute;
-bottom: 0px!important;
+top: 50%;
 left: 50%;
--ms-transform: translate(-50%, 100vh);
-transform: translate(-50%, 100vh);
+-ms-transform: translate(-50%, -50%);
+transform: translate(-50%, -50%);
 }
 .rainbow {
   text-align: center;

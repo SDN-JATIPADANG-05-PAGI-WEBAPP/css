@@ -242,7 +242,7 @@ height: 100%;
 width: 0;
 position: fixed;
 z-index: 320;
-top: 0;
+top: 5px;
 left: 0;
 overflow-y: auto;
 scrollbar-width: none;
@@ -250,12 +250,6 @@ background-color: #00008B;
 overflow-x: hidden;
 transition: 0.5s;
 padding-top: 0px;
-background-image: url("//a0ce76b8-a-62cb3a1a-s-sites.googlegroups.com/site/databloggerjp05/home/folder-img/BCGREPEAT_03_GREY.png");
--webkit-background-size: 130px;
--moz-background-size: 130px;
--o-background-size: 130px;
-background-attachment: fixed;
-background-repeat: repeat;
 color: white;    
 }
 

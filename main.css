@@ -379,14 +379,16 @@ opacity: 0.6;
 text-align: center;
 margin:5px;
 }
-.textpin {
-padding:15px; 
+.textpin { 
 background-color: rgb(255, 255, 255, 0.9);
 height: 100vh;
 width: 100%;
 position: fixed;
 overflow: scroll;
-margin-bottom: 20px;    
+padding-top:15px;
+padding-left:15px; 
+padding-right:15px;     
+padding-bottom: 80px;    
 }
 
 .mkb-input{

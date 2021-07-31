@@ -156,7 +156,9 @@ text-align: center;
 }
 
 .mkb-blue .mkb-form-group {
-max-width: 340px;
+width: -moz-calc(100% - 5px);
+width: -webkit-calc(100% - 5px);
+width: calc(100% - 5px);
 padding: 30px 10px 30px 10px;
 margin: 15px auto 15px auto;
 border-radius: 20px;
@@ -376,20 +378,20 @@ margin:5px;
 }
 .textpin { 
 background-color: rgb(255, 255, 255, 0.9);
-height: 100%;
+height: auto;
 width: 100%;
 position: fixed;
 overflow: scroll;
 padding-top:15px;
 padding-left:15px; 
 padding-right:15px;     
-padding-bottom: 80px;    
+margin-bottom: 80px;    
 }
 
 .mkb-input{
 width: -moz-calc(100% - 5px)!important;
 width: -webkit-calc(100% - 5px)!important;
-width: calc(90% - 5px)!important;
+width: calc(100% - 5px)!important;
 font-size: 30vb;
 -webkit-box-sizing: border-box;
 -moz-box-sizing: border-box;

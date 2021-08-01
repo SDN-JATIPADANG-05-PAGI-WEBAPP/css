@@ -341,13 +341,14 @@ box-shadow: 5px 5px 5px grey;
 z-index: 300;
 }
 .w3-button {
-font-size: 20px; 
+font-size: 10px; 
 background-color:transparent;
 padding: 5px 10px 5px 10px;
 border: none;
 cursor: pointer;
 display: inline-block;
-width: 25vw;    
+width: 25vw;
+text-align: center;    
 }
 .w3-button:hover, w3-button:active {
 border-bottom: 3px solid orange;

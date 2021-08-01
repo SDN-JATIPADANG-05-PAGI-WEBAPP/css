@@ -251,9 +251,7 @@ background-color: #00008B;
 overflow-x: hidden;
 transition: 0.5s;
 padding-top: 0px;
-color: white;
-padding-bottom: 30px;
-cursor: pointer;    
+color: white;   
 }
 
 .sidenavlink {
@@ -263,6 +261,7 @@ font-size: 18px;
 color: rgb(255, 255, 255);
 display: block;
 transition: 0.3s;
+cursor: pointer;    
 }
 
 .sidenavlink:hover {
@@ -335,9 +334,9 @@ color:white;
 width:100%; 
 padding-bottom: 0px; 
 display: inline-block;
-margin: 0;
-bottom:0;
-left:0;
+margin: 0px;
+bottom:0px;
+left:0px;
 box-shadow: 5px 5px 5px grey;
 z-index: 300;
 }

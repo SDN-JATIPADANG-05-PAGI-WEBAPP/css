@@ -347,7 +347,7 @@ padding: 5px 10px 5px 10px;
 border: none;
 cursor: pointer;
 display: inline-block;
-width: auto;
+width: 30px;
 text-align: center;  
 font-weight: normal;    
 }

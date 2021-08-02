@@ -345,7 +345,7 @@ z-index: 300;
 .w3-button {
 font-size: 10px; 
 background-color:transparent;
-padding: 10px auto 10px auto;
+padding: 10px 10px 0px 10px;
 border: none;
 cursor: pointer;
 display: inline-block;

@@ -16,7 +16,6 @@ overflow-y: hidden !important !important;
 -webkit-appearance: none !important !important;
 -moz-appearance: none !important !important;
 -ms-overflow-style: none;
-overflow: scroll;    
 }
 #element::-webkit-scrollbar {
     display: none;

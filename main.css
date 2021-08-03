@@ -417,7 +417,7 @@ display: block;
 }
 
 .mkb-group-group {
-width: calc(50% - 10px)!important;
+width: calc(40% - 10px)!important;
 display: inline-block;
 margin-right: 10px;
 }

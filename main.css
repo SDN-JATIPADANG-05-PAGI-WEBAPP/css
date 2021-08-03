@@ -291,7 +291,7 @@ width: -webkit-calc(100% - 0px);
 width: calc(100% - 0px);
 position: absolute;
 padding: 0;
-margin: auto auto auto auto;
+margin: 0px auto auto auto;
 color: black;
 text-align: center;
 vertical-align: middle;

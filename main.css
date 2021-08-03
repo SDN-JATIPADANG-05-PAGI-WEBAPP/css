@@ -378,8 +378,8 @@ overflow: scroll;
 -ms-overflow-style: none;
 scrollbar-width: none;     
 padding-top:15px;
-padding-left:15px; 
-padding-right:15px;     
+padding-left:0px; 
+padding-right:0px;     
 padding-bottom: 80px;    
 }
 

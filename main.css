@@ -30,10 +30,10 @@ background-color: #DCDCDC;
 background-image: url("https://sdn-jatipadang-05-pagi-webapp.github.io/img/monas.jpg");
 padding: 0;
 margin: 0px auto;
-background-size: cover;    
--webkit-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover;
+background-size: 100% 100%;   
+-webkit-background-size: 100% 100%;
+-moz-background-size: 100% 100%;
+-o-background-size: 100% 100%;
 background-attachment: fixed;
 background-repeat: no-repeat;
 background-position: center;
@@ -369,7 +369,7 @@ color: #B22222;
 .w3-button i {font-size: 20px;}
 
 .textpin { 
-background-color: rgb(255, 255, 255, 0.6);
+background-color: rgb(255, 255, 255, 0.4);
 backdrop-filter: hue-rotate(120deg);    
 height: 110vh;
 width: 100%;

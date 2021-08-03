@@ -356,6 +356,7 @@ font-weight: normal;
 .w3-button:hover, w3-button:active {
 color: white;
 }
+.w3-button i {font-size: 20px;}
 .pinbutton {
 border-radius: 20px;
 text-align : center;

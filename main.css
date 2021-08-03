@@ -338,7 +338,7 @@ li {margin-left: 50px;}
 
 .w3-bar {
 position: fixed; 
-background-color:#3F51B5FF; 
+background-color:#DCDCDC; 
 color: #808080; 
 width:100%; 
 padding-bottom: 0px; 
@@ -351,6 +351,7 @@ z-index: 300;
 }
 .w3-button {
 font-size: 10px; 
+color: #808080;    
 background-color:transparent;
 padding: 10px 10px 0px 10px;
 border: none;

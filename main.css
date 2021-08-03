@@ -372,7 +372,7 @@ color: #B22222;
 background-color: rgb(255, 255, 255, 0.6);
 backdrop-filter: hue-rotate(120deg);    
 height: 110vh;
-width: 100vw;
+width: 100%;
 position: fixed;
 overflow: scroll;
 -ms-overflow-style: none;

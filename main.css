@@ -11,11 +11,12 @@ iframe, html, body, #dataTable, .table-sm, .col-lg-6 {
 -ms-overflow-style: none !important !important;
 scrollbar-width: none !important !important; 
 overflow: scroll !important !important;  
-overflow-x: hidden !important !important;
-overflow-y: hidden !important !important;
+overflow-x: none !important !important;
+overflow-y: none !important !important;
 -webkit-appearance: none !important !important;
 -moz-appearance: none !important !important;
 -ms-overflow-style: none;
+overflow: none !important !important; 
 }
 #element::-webkit-scrollbar {
     display: none;

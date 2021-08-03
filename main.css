@@ -16,7 +16,6 @@ overflow-y: hidden !important !important;
 -webkit-appearance: none !important !important;
 -moz-appearance: none !important !important;
 -ms-overflow-style: none;
-scrollbar-width: none; 
 overflow: scroll;    
 }
 #element::-webkit-scrollbar {
@@ -375,12 +374,14 @@ margin:5px;
 }
 
 .textpin { 
-background-color: rgb(255, 255, 255, 0.9);
+background-color: rgb(255, 255, 255, 0.6);
 backdrop-filter: hue-rotate(120deg);    
 height: 110vh;
 width: 100%;
 position: fixed;
 overflow: scroll;
+-ms-overflow-style: none;
+scrollbar-width: none;     
 padding-top:15px;
 padding-left:15px; 
 padding-right:15px;     

@@ -368,16 +368,11 @@ color: #B22222;
 }
 .w3-button i {font-size: 20px;}
 
-.menuline {
-text-align: center;
-margin:5px;
-}
-
 .textpin { 
 background-color: rgb(255, 255, 255, 0.6);
 backdrop-filter: hue-rotate(120deg);    
 height: 110vh;
-width: 100%;
+width: 100vw;
 position: fixed;
 overflow: scroll;
 -ms-overflow-style: none;

@@ -376,8 +376,9 @@ margin:5px;
 
 .textpin { 
 background-color: rgb(255, 255, 255, 0.9);
-height: 90vh;
-width: 100%;
+backdrop-filter: hue-rotate(120deg);    
+height: 110vh;
+width: 95%;
 position: fixed;
 overflow: scroll;
 padding-top:15px;

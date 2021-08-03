@@ -371,7 +371,7 @@ color: #B22222;
 .textpin { 
 background-color: rgb(255, 255, 255, 0.4);
 backdrop-filter: hue-rotate(120deg);    
-height: 110vh;
+height: 100%;
 width: 100%;
 position: fixed;
 overflow: scroll;

@@ -6,7 +6,6 @@ margin: 0;
 }
 input[type="number"] {-moz-appearance: textfield;}
 
-
 iframe, html, body, #dataTable, .table-sm, .col-lg-6 {
 -ms-overflow-style: none !important !important;
 scrollbar-width: none !important !important; 
@@ -588,7 +587,7 @@ text-align: center;
 }
 #FormChat {
 position: fixed;
-bottom: 80px;
+bottom: 60px;
 left: 0px;
 padding: 5px 5px 5px 5px;
 border: 0px;

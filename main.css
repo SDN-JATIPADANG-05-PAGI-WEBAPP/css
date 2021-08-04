@@ -428,7 +428,7 @@ margin-right: 10px;
 }
 
 .mkb-group-group input, .mkb-group-group select{
-width: 140px;
+width: calc(40% - 10px)!important;
 font-size: auto;
 }
 
@@ -587,7 +587,7 @@ text-align: center;
 }
 #FormChat {
 position: fixed;
-bottom: 65px;
+bottom: 68px;
 left: 0px;
 padding: 5px 5px 5px 5px;
 border: 0px;

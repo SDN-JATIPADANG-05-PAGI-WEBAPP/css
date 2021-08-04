@@ -370,7 +370,7 @@ color: #B22222;
 .w3-button i {font-size: 20px;}
 
 .textpin { 
-background-color: rgb(255, 255, 255, 0.4);
+background-color: rgb(255, 255, 255, .2);
 backdrop-filter: hue-rotate(120deg);    
 height: calc(100% - 80px)!important;
 width: 100%;
@@ -381,7 +381,8 @@ scrollbar-width: none;
 padding-top:5px;
 padding-left:0px; 
 padding-right:0px;     
-padding-bottom: 5px;    
+padding-bottom: 5px;
+border-radius: 20px;    
 }
 
 .mkb-input{

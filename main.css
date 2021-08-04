@@ -588,13 +588,14 @@ text-align: center;
 }
 #FormChat {
 position: fixed;
-bottom: 120px;
+bottom: 80px;
 left: 0px;
 padding: 5px 5px 5px 5px;
 border: 0px;
 width: 100%;
 text-align:center;
 background-color: #FFEBCD;
+z-index: 300;    
 }
 input[id="FILECHAT"]{
 display: none;

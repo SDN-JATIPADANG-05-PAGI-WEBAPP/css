@@ -380,10 +380,16 @@ overflow: scroll;
 -ms-overflow-style: none;
 scrollbar-width: none;     
 padding-top: 10px;
-padding-left: 0px; 
-padding-right: 0px;     
-padding-bottom: 5px;
+padding-left: 10px; 
+padding-right: 10px;     
+padding-bottom: 10px;
 border-radius: 10px;    
+}
+
+.textpin body, .textpin html {
+color: white; 
+padding-left: 0px; 
+padding-right: 0px; 
 }
 
 .mkb-input{

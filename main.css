@@ -417,18 +417,18 @@ margin: 15px auto 15px auto;
 }
 
 .mkb-group {
-width: calc(90% - 20px)!important;
+width: calc(40%)!important;
 display: block;
 }
 
 .mkb-group-group {
-width: calc(50%)!important;
+width: calc(100%)!important;
 display: inline-block;
 margin-right: 10px;
 }
 
 .mkb-group-group input, .mkb-group-group select{
-width: calc(50%)!important;
+width: calc(100%)!important;
 font-size: auto;
 }
 

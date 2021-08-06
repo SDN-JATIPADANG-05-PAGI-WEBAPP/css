@@ -422,13 +422,13 @@ display: block;
 }
 
 .mkb-group-group {
-width: calc(40% - 10px)!important;
+width: calc(50%)!important;
 display: inline-block;
 margin-right: 10px;
 }
 
 .mkb-group-group input, .mkb-group-group select{
-width: calc(40% - 10px)!important;
+width: calc(50%)!important;
 font-size: auto;
 }
 

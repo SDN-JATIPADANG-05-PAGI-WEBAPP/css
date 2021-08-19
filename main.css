@@ -234,13 +234,13 @@ border-color: #FF0000;
 display: none;
 }
 
-#home{
+#home h3{
 color: white; 
 background-color: rgb(0,0,0, 0.7);
 margin-top: 0px; 
 text-align: left;
 font-size: 12px;
-padding: 10px 10px 10px 10px;
+padding: 10px 10px 10px 5px;
 font-weight: normal;
 border-bottom-left-radius: 20px;
 border-bottom-right-radius: 20px;     

@@ -234,7 +234,7 @@ border-color: #FF0000;
 display: none;
 }
 
-#home h3 {
+#home{
 color: white; 
 background-color: rgb(0,0,0, 0.7);
 margin-top: 0px; 

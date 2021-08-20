@@ -29,13 +29,7 @@ background-color: #DCDCDC;
 background-image: url("https://sdn-jatipadang-05-pagi-webapp.github.io/img/monas.jpg");
 padding: 0;
 margin: 0px auto;
-background-size: auto 100%;   
--webkit-background-size: auto 100%;
--moz-background-size: auto 100%;
--o-background-size: auto 100%;
-background-attachment: fixed;
 background-repeat: repeat;
-background-position: center center;
 height: 100vh;
 color: inherit;    
 }

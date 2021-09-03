@@ -365,7 +365,7 @@ color: #B22222;
 .w3-button i {font-size: 20px;}
 
 .textpin { 
-background-color: rgb(255, 255, 255, .2);
+background-color: rgb(255, 255, 255, .8);
 backdrop-filter: hue-rotate(120deg);    
 height: calc(100% - 160px)!important;
 width: calc(100% - 20px)!important;
@@ -381,7 +381,6 @@ border-radius: 10px;
 }
 
 .textpin body, .textpin html {
-color: white; 
 padding-left: 0px; 
 padding-right: 0px; 
 }

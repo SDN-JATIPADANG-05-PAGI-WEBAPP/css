@@ -291,7 +291,7 @@ color: red;
 width: -moz-calc(100% - 0px);
 width: -webkit-calc(100% - 0px);
 width: calc(100% - 0px);
-position: absolute;
+position: relative;
 padding: 0;
 margin: 0px auto auto auto;
 color: black;

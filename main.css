@@ -651,8 +651,8 @@ font-weight: bold;
 } 
 
 @keyframes spin { 
-from {transform: rotate(0deg);}
-to {transform: rotate(360deg);}
+from {transform: scale(0, .5);
+to {transform: scale(2, .5);
 }
 
 input[type="text"]:disabled {
